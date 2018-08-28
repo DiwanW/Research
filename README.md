@@ -6,10 +6,10 @@ Articles:
   https://anadea.info/blog/scala-implicits
 
   need to read: 
+  
     https://isaacg1.github.io/posts/programmatically-generated-artwork/
     https://typelevel.org/blog/2014/07/06/singleton_instance_trick_unsafe.html
     https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html
-    
     https://partialflow.wordpress.com/2018/02/01/a-tale-of-tagless-final-cats-effect-and-streaming-fs2-rabbit-v0-1/
     https://skymind.ai/wiki/neural-network
     http://ml4a.github.io/ml4a/how_neural_networks_are_trained/
@@ -24,4 +24,5 @@ Articles:
     https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
   
 Videos:
+
   https://www.youtube.com/watch?v=IHxBjXVtxnY&t=223s
