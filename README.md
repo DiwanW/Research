@@ -4,6 +4,7 @@ Used to keep a personal list of things I've read.
 Articles:
 
   https://anadea.info/blog/scala-implicits
+  http://www.oweinreese.com/blog/2016/6/15/mutual-tail-recursion-in-scala
 
   need to read: 
   
@@ -26,5 +27,4 @@ Articles:
 Videos:
 
   https://www.youtube.com/watch?v=IHxBjXVtxnY&t=223s
-  
   electron real world - https://www.youtube.com/watch?v=iVdXOrtdHvA&feature=youtu.be
