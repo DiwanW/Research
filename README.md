@@ -6,6 +6,8 @@ Articles:
   https://anadea.info/blog/scala-implicits
   
   http://www.oweinreese.com/blog/2016/6/15/mutual-tail-recursion-in-scala
+  
+  https://medium.com/@enochabassey/understanding-observables-and-iterables-part-1-eed6e715621b
 
   need to read: 
   
